@@ -5,3 +5,7 @@ import kotlinx.coroutines.CoroutineScope
 
 abstract class BaseFragment : Fragment(), CoroutineScope
 
+
+
+
+

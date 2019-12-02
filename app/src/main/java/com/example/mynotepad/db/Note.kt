@@ -13,8 +13,8 @@ data class Note(noteBody: String, noteTitle: String) {
     val note: String,
 
 }
-[
+        [
 
-@PrimaryKey(autoGenerate = true)
-val id: Int = 0
-]
+            @PrimaryKey(autoGenerate = true)
+            val id: Int = 0
+        ]
