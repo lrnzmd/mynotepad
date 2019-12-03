@@ -1,0 +1,8 @@
+C:\Users\lrnzm\AndroidStudioProjects\mynotepad-parte2\app\src\main\java\com\example\mynotepad\db\Note.kt
+C:\Users\lrnzm\AndroidStudioProjects\mynotepad-parte2\app\src\main\java\com\example\mynotepad\db\NoteDao.kt
+C:\Users\lrnzm\AndroidStudioProjects\mynotepad-parte2\app\src\main\java\com\example\mynotepad\db\NoteDatabase.kt
+C:\Users\lrnzm\AndroidStudioProjects\mynotepad-parte2\app\src\main\java\com\example\mynotepad\ui\AddNoteFragment.kt
+C:\Users\lrnzm\AndroidStudioProjects\mynotepad-parte2\app\src\main\java\com\example\mynotepad\ui\BaseFragment.kt
+C:\Users\lrnzm\AndroidStudioProjects\mynotepad-parte2\app\src\main\java\com\example\mynotepad\ui\Helpers.kt
+C:\Users\lrnzm\AndroidStudioProjects\mynotepad-parte2\app\src\main\java\com\example\mynotepad\ui\HomeFragment.kt
+C:\Users\lrnzm\AndroidStudioProjects\mynotepad-parte2\app\src\main\java\com\example\mynotepad\ui\MainActivity.kt
